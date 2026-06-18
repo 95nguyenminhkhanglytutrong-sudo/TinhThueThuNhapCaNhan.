@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Tiêu đề ứng dụng
-st.image("t%E1%BA%A3i%20xu%E1%BB%91ng.jpg")
+st.image("tải xuống.jpg")
 st.title("💰 App tính Thuế Thu Nhập Cá Nhân đề tài 1 Phan Lạc Quốc Minh")
 
 # Nhập dữ liệu
